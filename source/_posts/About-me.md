@@ -22,8 +22,11 @@ Database engines, concurrent programming
 
 # Recent Publications
 
-Coming soon
+[Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt? (to appear)](#)
 
+Kaisong Huang, **Jiatang Zhou**, Zhuoyue Zhao, Dong Xie and Tianzheng Wang.
+
+[SIGMOD 2025](https://2025.sigmod.org/)
 <br>
 
 # Educations
