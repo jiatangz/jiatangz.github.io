@@ -14,7 +14,7 @@ This is Jiatang Zhou, first year PhD student at SFU.
 
 <br>
 
-# Research interest
+# Research Interests
 
 Database engines, Concurrent programming, Lock design
 
@@ -27,8 +27,8 @@ Kaisong Huang, **Jiatang Zhou**, Zhuoyue Zhao, Dong Xie and Tianzheng Wang.\
 [SIGMOD 2025](https://2025.sigmod.org/)
 <br>
 
-# Educations
+# Education
 
-BSc, Computing Science, Simon Fraser University (Minor in Math), Sep 2018 - Apr 2024.
+BSc, Computing Science, Simon Fraser University (Minor in Math), Apr 2024.
 
-PhD, Computing Science, Simon Fraser University, May 2024 - present
+PhD, Computing Science, Simon Fraser University, present
