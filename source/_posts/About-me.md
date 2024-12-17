@@ -22,7 +22,9 @@ Database engines, Concurrent programming, Lock design
 
 # Recent Publications
 
-[Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt? (to appear)](#)\
+[Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt? (to appear)](#) 
+[[preprint]](https://www2.cs.sfu.ca/~tzwang/preemptdb.pdf) 
+[[code]](https://github.com/sfu-dis/preemptdb)\
 Kaisong Huang, **Jiatang Zhou**, Zhuoyue Zhao, Dong Xie and Tianzheng Wang.\
 [SIGMOD 2025](https://2025.sigmod.org/)
 <br>
