@@ -9,7 +9,7 @@ academia: true
 
 # About me
 
-This is Jiatang Zhou, first year PhD student at SFU. 
+This is Jiatang Zhou, first year PhD student at SFU with [Tianzheng Wang](https://www2.cs.sfu.ca/~tzwang/pubs.html)
 
 
 <br>
@@ -25,7 +25,7 @@ Database engines, Concurrent programming, Lock design
 [Analytics Are Heavy. The DBMS Is Busy. When Will My Mission-Critical Transaction Start Running? (to appear)](#)
 
 **Jiatang Zhou**, Kaisong Huang, Zhuoyue Zhao, Dong Xie and Tianzheng Wang.
-[VLDB2025](https://vldb.org/2025/)
+[VLDB2025](https://vldb.org/2025/) **(Demo)**
 
 <br>
 
